@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Mình biết là bạn không nỡ giận mình lâu mà ehehe',
     btnRreply: 'Gửi cho mình <3',
     reply: '',
-    mess: 'Yêu bạn nhiều moah ',
+    mess: 'Yêu bạn nhiều moah moah',
     messDesc: 'Đợi mình có tiền, dẫn bạn đi ăn gì ngon ngon nhá',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
