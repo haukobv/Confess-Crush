@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Demo",
+    titleWeb: "Cục dàng của mình",
     introTitle: 'Vân Anh',
     introDesc: `Gửi cho bạn bé`,
     btnIntro: 'Tiếp theo',
